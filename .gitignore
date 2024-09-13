@@ -1,0 +1,10 @@
+# Ignore virtual environment
+env/
+# Ignore datasets
+newdataset/
+testdataset/
+output/
+*.pyc
+__pycache__/
+*.log
+.DS_Store
